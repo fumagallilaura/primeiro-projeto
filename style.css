@@ -16,3 +16,19 @@ body {
   display: inline-block;
 
 }
+
+#img-pg1{
+  display: inline;
+  float: left;
+  margin-left: 50px;
+}
+
+#img-pg2{
+  display: inline;
+  float: right;
+  margin-right: 50px;
+}
+
+.section {
+  clear: both;
+}
