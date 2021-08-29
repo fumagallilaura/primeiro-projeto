@@ -4,6 +4,9 @@ body {
   background-color: #f3d78a;
   margin: 0px;
   border: none;
+  color: #6a3324;
+  font-family: 'Hina Mincho', serif;
+  font-size: 30px;
 }
  
 #cabecalho {
@@ -76,9 +79,9 @@ body {
   display: inline-block;
   text-align: right;
   font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-size: 20px;
-  margin-top: 10%; 
-  line-height: 40px;
+  font-size: 30px;
+  margin-top: 5%; 
+  line-height: 50px;
 }
 
 #ol li {
@@ -89,15 +92,15 @@ body {
   display: inline-block;
   text-align: left;
   font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-size: 20px;
-  line-height: 40px;
+  font-size: 30px;
+  line-height: 50px;
 }
 
 #ul li {
   list-style-type: none;
 }
 
-#footerImg {
-  background-size: cover;
-  margin-bottom: 0%;
+.footerImg {
+  opacity: 0.7;
+  width: 100%;
 }
