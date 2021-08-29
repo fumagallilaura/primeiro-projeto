@@ -16,13 +16,13 @@ body {
   display: inline-block;
 }
 
-#img-pg1{
+.imgLeft {
   display: inline;
   float: left;
   margin-left: 50px;
 }
 
-#img-pg2{
+.imgRight {
   display: inline;
   float: right;
   margin-right: 50px;
@@ -30,4 +30,18 @@ body {
 
 .section {
   clear: both;
+  padding: 25px;
+}
+
+.imgLeft2 {
+  display: inline;
+  float: left;
+  margin-left: 50px;
+  margin-bottom: 70px;
+}
+
+#textLeft {
+  display: inline;
+  padding: 0% 60% 0% 8%;
+  line-height: 35px;
 }
